@@ -1,0 +1,5 @@
+weight= input("what is your weight in pounds? ")
+print(type(weight))
+kilograms= 2.2 * int(weight)
+print(type(kilograms))
+print(f"your weight in kilograms is {kilograms}")
